@@ -1,5 +1,5 @@
 # HFW-Proxy-Install
-El propósito es interceptar la petición oficial del archivo de actualización del sistema y redirigirla a un servidor customizado que alberga el firmware modificado (4.92 HFW).
+El propósito es interceptar la petición oficial del archivo de actualización del sistema y redirigirla a un servidor customizado que alberga el firmware modificado controlado y verificado por mi (4.92 HFW).
 
 ## ⚙️ Configuración y Uso (Instalar Firmware)
 
