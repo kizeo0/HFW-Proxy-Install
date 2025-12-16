@@ -1,7 +1,7 @@
 # HFW-Proxy-Install
 El propósito es interceptar la petición oficial del archivo de actualización del sistema y redirigirla a un servidor customizado que alberga el firmware modificado (HFW).
 
-## ⚙️ Configuración y Uso (PS3 HFW)
+## ⚙️ Configuración y Uso (Instalar Firmware)
 
             Este proceso desvía la actualización oficial de Sony hacia el Hybrid Firmware (HFW) 4.92.
 
