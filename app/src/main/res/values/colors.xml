@@ -1,0 +1,21 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_red">#D32F2F</color>
+    <color name="bg_main">#FAFAFA</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_toolbar">#FFFFFF</color>
+    <color name="logs_bg">#EEEEEE</color>
+    <color name="btn_start">#4CAF50</color>
+    <color name="btn_stop">#D32F2F</color>
+    <color name="btn_export">#607D8B</color>
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#757575</color>
+</resources>

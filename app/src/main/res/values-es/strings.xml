@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">HFW Proxy Install</string>
+    <string name="title_toolbar">HFW Proxy Install</string>
+    <string name="server_ip_label">IP Servidor:</string>
+    <string name="port_label">Puerto:</string>
+    <string name="btn_start">INICIAR</string>
+    <string name="btn_stop">DETENER</string>
+    <string name="status_online">ESTADO: ONLINE</string>
+    <string name="status_offline">ESTADO: OFFLINE</string>
+    <string name="logs_label">Registros:</string>
+    <string name="logs_default">Listo...</string>
+    <string name="btn_export">GUARDAR LOGS TXT</string>
+    <string name="logs_saved">Logs guardados en Descargas</string>
+    <string name="notification_title">HFW Proxy Ejecutándose</string>
+    <string name="notification_desc">Servidor activo en puerto 8080. Toque para abrir.</string>
+    <string name="menu_tutorial">Cómo usar</string>
+    <string name="menu_youtube">YouTube KiZeo</string>
+    <string name="menu_credits">Créditos y Docs</string>
+    <string name="menu_dark_mode">Modo Oscuro</string>
+    <string name="splash_text">App creada por KiZeo</string>
+    <string name="error_msg">Error:</string>
+    <string name="menu_update">Buscar Actualización</string>
+    <string name="update_checking">Buscando actualizaciones...</string>
+    <string name="update_available_title">Nueva Versión Disponible</string>
+    <string name="update_available_msg">La versión %1$s está disponible en GitHub. ¿Quieres descargarla?</string>
+    <string name="update_not_available">Ya tienes la última versión.</string>
+    <string name="update_error">No se pudo comprobar actualizaciones.</string>
+    <string name="btn_download">Descargar</string>
+
+    <string name="tutorial_content">Cómo usar...\n\n( PASO A PASO:\n\n1. CONEXIÓN INICIAL\nAsegúrate de que tu celular y tu PS3 estén conectados a la misma red Wi-Fi.\n\n2. CONFIGURAR LA PS3\nEn la consola, ve a Ajustes de Red > Ajustes de conexión a Internet > Personalizar.\nAvanza hasta llegar a la opción \"Servidor Proxy\".\nSelecciona \"Usar\" e introduce la IP (Servidor) y el Puerto que aparecen en la pantalla principal de esta aplicación.\n\n3. ACTIVAR EL PROXY\nEn el celular, presiona el botón verde \"INICIAR\". El estado cambiará a ONLINE.\n\n4. BUSCAR ACTUALIZACIÓN\nEn la PS3, ve a Actualización del sistema > Actualizar mediante Internet.\n\n5. INSTALAR HFW\nLa consola detectará una actualización (puede aparecer como versión 9.00 o similar, pero no te preocupes, en realidad es el HFW 4.92 que estamos inyectando). Procede a descargar e instalar.\n\n6. FINALIZAR\nUna vez que la instalación haya terminado o la PS3 se reinicie, puedes presionar \"DETENER\" en la aplicación para apagar el servidor.)</string>
+
+    <string name="credits_content">HFW Proxy Installer...\n\n( Documentación Técnica Completa del PS3 Proxy Server para Android (Modo Redirección HFW)\n\nLa presente documentación detalla la arquitectura, el código fuente y el proceso de depuración del proyecto de aplicación Android. El propósito es interceptar la petición oficial del archivo de actualización del sistema y redirigirla a un servidor customizado que alberga el firmware modificado (HFW).\n\n Créditos y Fuentes de Inspiración:
+
+            \n\nFuncionamiento completo en Github
+            https://github.com/kizeo0/HFW-Proxy-Install
+
+            \n\n1. PSX-Place: PS3 Proxy Server for Android v2.2 (Universal)
+            https://www.psx-place.com/resources/ps3-proxy-server-for-android-v2-2-universal.795/
+
+            \n\n2. GitHub: Edw590/PS3-Proxy-Server-for-Android
+            https://github.com/Edw590/PS3-Proxy-Server-for-Android
+
+            \n\nComunidad y Solución de Problemas:
+            * El Otro Lado: Acceso a PSN con PS3 Proxy Server
+            https://www.elotrolado.net/hilo_acceso-a-psn-con-ps3-proxy-server-en-firmware-4-82-ofw_2306364
+
+            \n\nReferencia Funcional:
+            El script en Python suministrado por el usuario (Kizeo) fue el modelo exacto de comportamiento a replicar.
+
+            \n\nArquitectura:
+            El servidor proxy opera bajo un modelo de inspección y reenvío (man-in-the-middle).
+            Cuando detecta el archivo oficial (ps3-updatelist.txt), responde con un código HTTP/1.1 302 Found apuntando al HFW.)</string>
+</resources>
