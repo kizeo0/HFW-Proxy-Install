@@ -52,24 +52,15 @@ Ya puedes presionar "DETENER" en la aplicación del celular para apagar el servi
 
 
 
+Arquitectura
+El servidor proxy opera bajo un modelo de inspección y reenvío (man-in-the-middle). Cuando detecta el archivo oficial (ps3-updatelist.txt), responde con un código HTTP/1.1 302 Found apuntando al HFW.
 
+Créditos y Fuentes de Inspiración
+Funcionamiento completo en GitHub: kizeo0/HFW-Proxy-Install
 
+PSX-Place: PS3 Proxy Server for Android v2.2 (Universal)
 
+GitHub: Edw590/PS3-Proxy-Server-for-Android
 
-
-
-Créditos y Fuentes de Inspiración:
-    
-    Concepto Base del Proxy PS3 en Android: Proviene de proyectos como el PS3 Proxy Server for Android de Edw590.
-
-        PSX-Place: PS3 Proxy Server for Android v2.2 (Universal)
-
-        GitHub: Edw590/PS3-Proxy-Server-for-Android
-
-    Comunidad y Solución de Problemas:
-
-        El Otro Lado: Acceso a PSN con PS3 Proxy Server en firmware 4.82 OFW
-
-        PSX-Place: Hilo de discusión PS3 Proxy Server for Android v2.2 Universal
-
-    Referencia Funcional: El script en Python suministrado por el usuario (ps3proxy (2).py) fue el modelo exacto de comportamiento a replicar, especialmente en el manejo de peticiones HEAD y el tráfico de "passthrough".
+Comunidad y Solución de Problemas
+El Otro Lado: Acceso a PSN con PS3 Proxy Server
