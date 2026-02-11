@@ -24,7 +24,7 @@ class ProxyService : Service() {
 
     // Configuración
     private val SERVER_PORT = 8080
-    private val REDIRECT_URL = "http://hidden-firefly-bfb6.kizeocloud.workers.dev/ps3-updatelist.txt"
+    private val REDIRECT_URL = "your http link with ps3updatelist.txt"
     private val CHANNEL_ID = "ProxyChannel"
 
     companion object {
