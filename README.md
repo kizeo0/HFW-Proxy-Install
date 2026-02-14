@@ -2,7 +2,18 @@
 
 El propósito es redirigir update a un servidor customizado que alberga el firmware modificado (**HFW 4.92 ACTUALMENTE**). Si sale un nuevo HFW lo actualizaré automaticamente.
 
----
+
+
+
+<p align="center">
+    <img width="25%" height="25%" alt="logo2" src="https://github.com/user-attachments/assets/3d79f637-aab2-438a-982c-ab1447bbad85" />
+</p>
+
+<h1 align="center"> HFW Proxy Install 3.0 </h1>
+<p  align="center">
+</p>
+
+
 
 ## 🛠️ Guía de Instalación: HFW 4.92 vía Proxy
 
