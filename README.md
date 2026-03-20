@@ -1,6 +1,6 @@
 # HFW Proxy Install
 
-El propósito es redirigir update a un servidor customizado que alberga el firmware modificado (**HFW 4.92 ACTUALMENTE**). Si sale un nuevo HFW lo actualizaré automaticamente.
+El propósito es redirigir update a un servidor customizado que alberga el firmware modificado (**HFW 4.93 ACTUALMENTE**). Si sale un nuevo HFW lo actualizaré automaticamente.
 
 
 
@@ -9,13 +9,13 @@ El propósito es redirigir update a un servidor customizado que alberga el firmw
     <img width="25%" height="25%" alt="logo2" src="https://github.com/user-attachments/assets/3d79f637-aab2-438a-982c-ab1447bbad85" />
 </p>
 
-<h1 align="center"> HFW Proxy Install 3.0 </h1>
+<h1 align="center"> HFW Proxy Install 4.93 </h1>
 <p  align="center">
 </p>
 
 
 
-## 🛠️ Guía de Instalación: HFW 4.92 vía Proxy
+## 🛠️ Guía de Instalación: HFW 4.93 vía Proxy
 
 Sigue estos pasos cuidadosamente para redirigir la actualización de tu consola hacia el servidor personalizado.
 
@@ -52,7 +52,7 @@ En la consola, realiza los siguientes ajustes:
 
 * **Detección:** La consola detectará una actualización.
 
-> **Nota importante:** Puede aparecer como versión 9.00 o similar; esto es normal, es el identificador que usamos para inyectar el HFW 4.92.
+> **Nota importante:** Puede aparecer como versión 7.00 o similar; esto es normal, es el identificador que usamos para inyectar el HFW 4.93.
 
 * **Proceso:** Acepta los términos y procede con la descarga e instalación.
 
